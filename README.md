@@ -22,12 +22,12 @@ What You'll Find Here
 
 🌌 Generative AI Adventures: Experience the awe-inspiring capabilities of generative AI as we delve into the realm of creative machines and explore the art of synthetic data generation.
 
-Let's Connect! 🌟
+📫 Let's Connect! 🌟
 I'm always eager to connect with fellow data enthusiasts, machine learning aficionados, and anyone passionate about the intersection of technology and creativity. Feel free to reach out to me on:
 
-LinkedIn www.linkedin.com/in/sahil-khan34
-Email sahilkhan.edu@gmail.com
-Twitter https://twitter.com/im_sahilkhan
+- LinkedIn www.linkedin.com/in/sahil-khan34
+- Email sahilkhan.edu@gmail.com
+- Twitter https://twitter.com/im_sahilkhan
 
 Let's embark on this exhilarating journey together and shape the future of data science and AI!
 <!---
