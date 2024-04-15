@@ -29,7 +29,9 @@ I'm always eager to connect with fellow data enthusiasts, machine learning afici
 
 Let's embark on this exhilarating journey together and shape the future of data science and AI!
 
-
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <!---
 Sahilkhan-34/Sahilkhan-34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
